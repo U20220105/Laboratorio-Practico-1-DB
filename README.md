@@ -12,7 +12,9 @@ Proyecto académico donde se diseñó una base de datos básica para una empresa
 Cada tabla cuenta con:
 
 ✔ clave primaria
+
 ✔ tipos de datos adecuados
+
 ✔ restricciones necesarias
 
 No se establecieron relaciones entre tablas, según lo solicitado en el laboratorio.
