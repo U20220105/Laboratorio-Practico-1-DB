@@ -1,7 +1,3 @@
-perfecto 👍 aquí tienes una versión más corta para GitHub:
-
----
-
 # 📘 Laboratorio I – Base de Datos
 
 Proyecto académico donde se diseñó una base de datos básica para una empresa organizadora de eventos utilizando MySQL Workbench.
